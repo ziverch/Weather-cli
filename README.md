@@ -1,9 +1,12 @@
 # Weather-cli
 **A Python Weather Cli**
 
-Give the weather info (Temp, Humidity etc) for a City.
+Returns the weather info (Temp, Humidity etc) for a given city.
 
 **Requirements**
 
-in order to use it, you need to have the python requests library installed. It can be done with 
-'pip install requests'
+python requests library is required.
+
+```
+pip install -r requirements.txt
+```
